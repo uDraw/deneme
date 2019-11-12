@@ -6,7 +6,7 @@ public class Helloworld {
 		
 		
 		String career;
-		career = "computer engineer";
+		career = "computer master";
 		
 		int haftaliksaat= 40;
 		int yillikhafta = 50;
